@@ -1,73 +1,120 @@
-# Taps (Repositories)
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
 tap "homebrew/core"
 tap "romkatv/powerlevel10k"
-
-# Brews (Packages/Formulae)
+# Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
+# Interpreted, interactive, object-oriented programming language
 brew "python@3.9"
+# Play, record, convert, and stream audio and video
 brew "ffmpeg"
+# GNU compiler collection
 brew "gcc"
+# GitHub command-line tool
 brew "gh"
+# Distributed revision control system
 brew "git"
+# User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Tools and libraries to manipulate images in many formats
 brew "imagemagick"
+# Mac App Store command-line interface
 brew "mas"
+# Platform built on V8 to build network applications
 brew "node"
+# Command-line interface for https://speedtest.net bandwidth tests
 brew "speedtest-cli"
+# CLI tool for termius.com (aka serverauditor.com)
 brew "termius"
+# Vi 'workalike' with many additional features
 brew "vim"
+# Download YouTube videos from the command-line
 brew "youtube-dl"
+# UNIX shell (command interpreter)
 brew "zsh"
+# Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
+# A Zsh Theme
 brew "romkatv/powerlevel10k/powerlevel10k"
-brew "exa"
-
-# Casks (Applications)
+# Password manager that keeps all passwords secure behind one password
 cask "1password"
+# Command-line helper for the 1Password password manager
 cask "1password-cli"
+# Collection of apps and services for photography, design, video, web, and UX
 cask "adobe-creative-cloud"
+# Utility to clean up corrupted installations of Adobe software
 cask "adobe-creative-cloud-cleaner-tool"
+# Application launcher and productivity software
 cask "alfred"
+# Tools for building Android applications
 cask "android-studio"
+# 3D creation suite
 cask "blender"
+# Contacts manager
 cask "cardhop"
+# Voice and text chat software
 cask "discord"
+# App to build and share containerized applications and microservices
 cask "docker"
-cask "dropbox"
+# Control your Elgato Key Lights
 cask "elgato-control-center"
+# Calendar software
 cask "fantastical"
+# Web browser
 cask "firefox"
+# Desktop client for GitHub repositories
 cask "github"
+# Web browser
 cask "google-chrome"
+# Grammarly for desktop
 cask "grammarly-desktop"
+# HTTP and GraphQL Client
 cask "insomnia"
+# Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
+# Interface for reading and syncing eBooks
 cask "kindle"
+# Provides updates to various Microsoft products
 cask "microsoft-auto-update"
+# Web browser
 cask "microsoft-edge"
+# Spreadsheet software
 cask "microsoft-excel"
+# Presentation software
 cask "microsoft-powerpoint"
+# Word processor
 cask "microsoft-word"
+# App to write, plan, collaborate, and get organized
 cask "notion"
+# Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
+# Move and resize windows using keyboard shortcuts or snap areas
 cask "rectangle"
+# Team communication and collaboration software
 cask "slack"
+# Sound and audio controller
 cask "soundsource"
+# Music streaming service
 cask "spotify"
+# System monitor for the menu bar
 cask "stats"
+# Text editor for code, markup and prose
 cask "sublime-text"
+# SSH client
 cask "termius"
+# File transfer application
 cask "transmit"
+# Email client with collaborative notes
 cask "twobird"
+# Open-source code editor
 cask "visual-studio-code"
+# Free messaging and calling application
 cask "wechat"
+# Desktop client for WhatsApp
 cask "whatsapp"
+# Video communication and virtual meeting platform
 cask "zoom"
-
-# MAS (Mac App Store Applications)
 mas "1Password for Safari", id: 1569813296
 mas "AdBlock Pro", id: 1018301773
 mas "Brother iPrint&Scan", id: 1193539993

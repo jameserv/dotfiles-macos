@@ -59,6 +59,8 @@ cask "cardhop"
 cask "discord"
 # App to build and share containerized applications and microservices
 cask "docker"
+# Client for the Dropbox cloud storage service
+cask "dropbox"
 # Control your Elgato Key Lights
 cask "elgato-control-center"
 # Calendar software

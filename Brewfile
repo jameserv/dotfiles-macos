@@ -7,6 +7,8 @@ tap "romkatv/powerlevel10k"
 brew "bat"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.9"
+# Modern replacement for 'ls'
+brew "exa"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
 # GNU compiler collection

@@ -117,6 +117,8 @@ eval "$(op completion zsh)"; compdef _op op
 
 
 # Set Variables
+# Syntax Highlighting for Man Pages using Bat
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 # Change ZSH Options
 
@@ -135,3 +137,9 @@ export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/
 function mkcd() {
   mkdir -p "$@" && cd "$_"
 }
+
+# ZSH Plugins
+
+
+# Others
+

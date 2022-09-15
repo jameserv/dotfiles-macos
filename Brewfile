@@ -67,6 +67,8 @@ cask "fantastical"
 cask "firefox"
 # Desktop client for GitHub repositories
 cask "github"
+# Git client focusing on productivity
+cask "gitkraken"
 # Web browser
 cask "google-chrome"
 # Grammarly for desktop

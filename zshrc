@@ -128,10 +128,10 @@ alias ls='ls -lAFh'
 # Customize Prompt(s)
 
 # Add Locations to $PATH Variable
-
-# Write Handy Functions
-# Add Visual Studio Code (code)
-export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+# ****** NEEDS REVIEW ******
+# -Add Visual Studio Code (code)
+# export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+# ****** NEEDS REVIEW ******
 
 # Handy Functions
 function mkcd() {

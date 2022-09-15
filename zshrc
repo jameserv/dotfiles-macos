@@ -128,6 +128,10 @@ alias ls='ls -lAFh'
 # Add Locations to $PATH Variable
 
 # Write Handy Functions
+# Add Visual Studio Code (code)
+export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
+# Handy Functions
 function mkcd() {
   mkdir -p "$@" && cd "$_"
 }

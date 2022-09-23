@@ -21,6 +21,8 @@ brew "git"
 brew "httpie"
 # Tools and libraries to manipulate images in many formats
 brew "imagemagick"
+# CLI for the Linode API
+brew "linode-cli"
 # Mac App Store command-line interface
 brew "mas"
 # Platform built on V8 to build network applications

@@ -55,6 +55,8 @@ cask "alfred"
 cask "android-studio"
 # 3D creation suite
 cask "blender"
+# Web browser focusing on privacy
+cask "brave-browser"
 # Contacts manager
 cask "cardhop"
 # Voice and text chat software

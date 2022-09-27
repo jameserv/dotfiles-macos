@@ -113,6 +113,8 @@ cask "stats"
 cask "sublime-text"
 # SSH client
 cask "termius"
+# Web browser focusing on security
+cask "tor-browser"
 # File transfer application
 cask "transmit"
 # Email client with collaborative notes

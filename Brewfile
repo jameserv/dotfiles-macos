@@ -34,6 +34,8 @@ brew "speedtest-cli"
 brew "termius"
 # Vi 'workalike' with many additional features
 brew "vim"
+# Tool for creating isolated virtual python environments
+brew "virtualenv"
 # Download YouTube videos from the command-line
 brew "youtube-dl"
 # UNIX shell (command interpreter)

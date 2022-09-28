@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
+tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "romkatv/powerlevel10k"
 # Clone of cat(1) with syntax highlighting and Git integration
@@ -71,6 +72,8 @@ cask "elgato-control-center"
 cask "fantastical"
 # Web browser
 cask "firefox"
+# Web browser
+cask "firefox-developer-edition"
 # Desktop client for GitHub repositories
 cask "github"
 # Git client focusing on productivity

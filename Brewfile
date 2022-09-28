@@ -28,8 +28,6 @@ brew "linode-cli"
 brew "mas"
 # Platform built on V8 to build network applications
 brew "node"
-# Development kit for the Java programming language
-brew "openjdk@17"
 # Command-line interface for https://speedtest.net bandwidth tests
 brew "speedtest-cli"
 # CLI tool for termius.com (aka serverauditor.com)

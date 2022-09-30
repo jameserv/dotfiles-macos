@@ -88,6 +88,8 @@ cask "grammarly-desktop"
 cask "insomnia"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
+# JetBrains tools manager
+cask "jetbrains-toolbox"
 # Interface for reading and syncing eBooks
 cask "kindle"
 # Provides updates to various Microsoft products

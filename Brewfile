@@ -36,6 +36,8 @@ brew "termius"
 brew "vim"
 # Tool for creating isolated virtual python environments
 brew "virtualenv"
+# Tool for managing your YubiKey configuration
+brew "ykman"
 # Download YouTube videos from the command-line
 brew "youtube-dl"
 # UNIX shell (command interpreter)
@@ -134,6 +136,10 @@ cask "visual-studio-code"
 cask "wechat"
 # Desktop client for WhatsApp
 cask "whatsapp"
+# Application for generating TOTP and HOTP codes
+cask "yubico-authenticator"
+# Application for configuring any YubiKey
+cask "yubico-yubikey-manager"
 # Video communication and virtual meeting platform
 cask "zoom"
 mas "1Password for Safari", id: 1569813296

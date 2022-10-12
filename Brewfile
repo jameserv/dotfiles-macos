@@ -120,6 +120,8 @@ cask "soundsource"
 cask "spotify"
 # System monitor for the menu bar
 cask "stats"
+# All-in-one live streaming software
+cask "streamlabs-obs"
 # Text editor for code, markup and prose
 cask "sublime-text"
 # SSH client

@@ -108,6 +108,8 @@ cask "microsoft-powerpoint"
 cask "microsoft-word"
 # App to write, plan, collaborate, and get organized
 cask "notion"
+# Open-source software for live streaming and screen recording
+cask "obs"
 # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
 # Move and resize windows using keyboard shortcuts or snap areas

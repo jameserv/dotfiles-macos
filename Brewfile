@@ -58,6 +58,8 @@ cask "adobe-creative-cloud-cleaner-tool"
 cask "alfred"
 # Tools for building Android applications
 cask "android-studio"
+# Desktop password and login vault
+cask "bitwarden"
 # 3D creation suite
 cask "blender"
 # Web browser focusing on privacy

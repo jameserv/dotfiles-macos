@@ -76,8 +76,6 @@ cask "dropbox"
 cask "elgato-control-center"
 # Assign keys, and then decorate and label them
 cask "elgato-stream-deck"
-# Calendar software
-cask "fantastical"
 # Web browser
 cask "firefox"
 # Web browser

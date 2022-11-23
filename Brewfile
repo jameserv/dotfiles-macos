@@ -72,6 +72,8 @@ cask "discord"
 cask "docker"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+# Eclipse integrated development environment
+cask "eclipse-ide"
 # Control your Elgato Key Lights
 cask "elgato-control-center"
 # Assign keys, and then decorate and label them
@@ -80,6 +82,8 @@ cask "elgato-stream-deck"
 cask "firefox"
 # Web browser
 cask "firefox-developer-edition"
+# Tool to measure the computer system's performance
+cask "geekbench"
 # Desktop client for GitHub repositories
 cask "github"
 # Git client focusing on productivity

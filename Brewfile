@@ -64,8 +64,6 @@ cask "bitwarden"
 cask "blender"
 # Web browser focusing on privacy
 cask "brave-browser"
-# Contacts manager
-cask "cardhop"
 # Voice and text chat software
 cask "discord"
 # App to build and share containerized applications and microservices

@@ -76,6 +76,8 @@ cask "eclipse-ide"
 cask "elgato-control-center"
 # Assign keys, and then decorate and label them
 cask "elgato-stream-deck"
+# Reference manager
+cask "endnote"
 # Web browser
 cask "firefox"
 # Web browser

@@ -100,6 +100,8 @@ cask "iterm2"
 cask "jetbrains-toolbox"
 # Interface for reading and syncing eBooks
 cask "kindle"
+# Full TeX Live distribution with GUI applications
+cask "mactex"
 # Provides updates to various Microsoft products
 cask "microsoft-auto-update"
 # Web browser
@@ -132,6 +134,8 @@ cask "streamlabs-obs"
 cask "sublime-text"
 # SSH client
 cask "termius"
+# Graphical user interface for TeX Live Manager
+cask "tex-live-utility"
 # Web browser focusing on security
 cask "tor-browser"
 # File transfer application
@@ -170,6 +174,7 @@ mas "Lens Studio", id: 1391221278
 mas "Logic Pro", id: 634148309
 mas "MainStage", id: 634159523
 mas "Motion", id: 434290957
+mas "myHomework", id: 970610831
 mas "NordVPN", id: 905953485
 mas "Notion Web Clipper", id: 1559269364
 mas "Numbers", id: 409203825
@@ -178,6 +183,7 @@ mas "PayPal Honey", id: 1472777122
 mas "Playgrounds", id: 1496833156
 mas "Pocket", id: 568494494
 mas "Save to Pocket", id: 1477385213
+mas "School", id: 1465687472
 mas "TestFlight", id: 899247664
 mas "Transporter", id: 1450874784
 mas "Webull Desktop", id: 1334590352

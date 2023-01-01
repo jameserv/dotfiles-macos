@@ -58,18 +58,23 @@ cask "adobe-creative-cloud-cleaner-tool"
 cask "alfred"
 # Tools for building Android applications
 cask "android-studio"
+# Integrated CAD, CAM, CAE, and PCB software
+cask "autodesk-fusion360"
 # Desktop password and login vault
 cask "bitwarden"
 # 3D creation suite
 cask "blender"
 # Web browser focusing on privacy
 cask "brave-browser"
+# E-books management software
+cask "calibre"
 # Voice and text chat software
 cask "discord"
 # App to build and share containerized applications and microservices
 cask "docker"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+cask "eagle"
 # Eclipse integrated development environment
 cask "eclipse-ide"
 # Control your Elgato Key Lights
